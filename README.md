@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**keerthanrao777-glitch/keerthanrao777-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hi there! I'm **Keerthan Rao**, a passionate individual who loves exploring the world of technology and creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Canara Car Wash Project
+I'm currently working on a project focused on providing a seamless car wash experience. Stay tuned for updates!
+
+### Get in Touch
+- **Email**: keerthan.rao@example.com
+- **LinkedIn**: [Keerthan Rao](https://www.linkedin.com/in/keerthanrao)
+
+### Skills and Interests
+- **Learning Python**: I'm diving into Python programming, building projects, and honing my skills.
+- **Recruiting Focus**: I'm interested in helping teams find the perfect talent.
+- **Acting Hobby**: I love acting and exploring creative storytelling.
+
+Feel free to connect with me!
